@@ -60,7 +60,7 @@ Cisco Packet Tracer 8.0 ou superior. O download é gratuito e requer uma conta n
 
 ### Passos
 
-1. Clone o repositório ou baixe o arquivo `Projeto1.pkt` diretamente.
+1. Clone o repositório ou baixe o arquivo `Simulacao.pkt` diretamente.
 
 ```bash
 git clone <url-do-repositorio>
@@ -68,7 +68,7 @@ git clone <url-do-repositorio>
 
 2. Abra o Cisco Packet Tracer.
 
-3. Vá em **File → Open** e selecione o arquivo `Projeto1.pkt`.
+3. Vá em **File → Open** e selecione o arquivo `Simulacao.pkt`.
 
 4. A topologia carrega já configurada. Aguarde alguns segundos até que todos os indicadores de porta fiquem verdes — o STP precisa convergir antes de a rede ficar operacional.
 
