@@ -6,7 +6,7 @@ Simulação de uma rede corporativa de três andares no Cisco Packet Tracer, uti
 
 | Arquivo | Descrição |
 |---|---|
-| `Projeto1.pkt` | Projeto do Cisco Packet Tracer com a topologia completa e já configurada |
+| `Simulacao.pkt` | Projeto do Cisco Packet Tracer com a topologia completa e já configurada |
 | `documentacao-tecnica.docx` | Documentação técnica com a fundamentação teórica e as referências normativas |
 | `topologia.png` | Diagrama detalhado da topologia com todos os elementos identificados |
 | `README.md` | Este arquivo |
