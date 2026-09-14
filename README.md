@@ -13,6 +13,13 @@ Simulação de uma rede corporativa de três andares no Cisco Packet Tracer, uti
 
 **Vídeo explicativo:** [inserir link do YouTube aqui]
 
+## Participantes
+
+- Alex Akio Nishimura Junior
+- Ana Marta Souza
+- Maria Eduarda Ferreira Bianchini
+- Pedro Henrique Rodrigues de Assis
+
 ## Topologia
 
 A rede é composta por um roteador, três comutadores e dezoito estações de trabalho:
